@@ -3,7 +3,10 @@ layout: default
 title: directions
 ---
 
+
 Address: Coul House Hotel, Contin, Ross & Cromarty, Scotland IV14 9ES 
+
+
 
 #How long it will take you from .....
 
