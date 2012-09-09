@@ -3,6 +3,8 @@ layout: default
 title: directions
 ---
 
+Address: Coul House Hotel, Contin, Ross & Cromarty, Scotland IV14 9ES 
+
 #How long it will take you from .....
 
 • Inverness airport - 45 min/ 26 miles
